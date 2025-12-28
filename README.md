@@ -29,7 +29,7 @@
 🔍 I am filled with curiosity about this world and strive to pursue knowledge. Each time I discover new insights through self-exploration, I can hardly contain my excitement. My dream is to create a world. 🌅 I look forward to every sunset in Puerto Rico and every meeting of our gazes.
 
 📚 Fields I explore:  
-💻 Computer Graphics / Game Development, 🌐 Website / App Development, 🗃️ Databases, 🤖 Robotics, 🧠 Machine Learning, ⛓️ Web 3.0, 📐 Linear Algebra, ∫ Calculus, 📊 Statistics, 🎲 Probability, ⚛️ Physics, 💬 Linguistics, 💰 Economics, 🧘 Philosophy, 🌍 World Cultures, 🤝 Ethics…
+💻 Computer Graphics / Game Development, 🌐 Website / App Development, 🗃️ Databases, 🤖 Robotics, 🧠 Machine Learning, ⛓️ Web 3.0, 📐 Linear Algebra, ∫ Calculus, 📊 Statistics, 🎲 Probability, ⚛️ Physics, 💬 Linguistics, 💰 Economics, 🧘 Philosophy, 🌍 World Cultures, Modern Control Systems,🤝 Ethics…
 
 ---
 

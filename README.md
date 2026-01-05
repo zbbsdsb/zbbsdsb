@@ -37,7 +37,7 @@
 
 🛠️ Tools / Programming Languages / Systems I use:  
 **🗣️ Languages:** C++, Java, Python (NumPy, Pandas, Matplotlib, PyTorch, OpenCV, Pygame, TensorFlow), Rust, Go, PHP, Kotlin, HTML, CSS, JavaScript, Solidity, Markdown, Shell, Lua  
-**🔧 Tools & Platforms:** MySQL, Redis, Git, 🐧 Arch Linux, 🪟 Windows, 🎨 OpenGL, 🎮 UE, 🗿 Blender, 📷 Postshot, 🏗️ Reality Capture, 📦 Gradle, 🐳 Docker, ☸️ Kubernetes, 🔢 GNU Octave, 🎯 CUDA, ✏️ Vim, 🤖 VEX Robotics, ⛓️ Web 3.0, 🖼️ NeRF,Jupyter Notebook
+**🔧 Tools & Platforms:** MySQL, Redis, Git, 🐧 Arch Linux, 🪟 Windows, 🎨 OpenGL, 🎮 UE, 🗿 Blender, 📷 Postshot, 🏗️ Reality Capture, 📦 Gradle, 🐳 Docker, ☸️ Kubernetes, 🔢 GNU Octave, 🎯 CUDA, ✏️ Vim, 🤖 VEX Robotics, ⛓️ Web 3.0, 🖼️ NeRF,Jupyter Notebook，google colab,GDScript
 
 ---
 

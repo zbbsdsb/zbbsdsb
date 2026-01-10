@@ -107,5 +107,6 @@ None yet 😄
 
 👋 你好！我是 Ceaser Zhao，来自中国的高中生开发者。  
 🤝 我很乐意分享和学习！我的 Discord: `ceasernotfound`
+¡Disfruten el ahora!
 
 📅 2025.12.16

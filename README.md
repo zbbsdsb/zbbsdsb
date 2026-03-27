@@ -103,6 +103,8 @@ None yet 😄
 
 ---
 
+In addition, I have two GitHub accounts: ceaserandrew and QolarBearFR
+
 ## 🇨🇳 中文简介
 
 👋 你好！我是 Ceaser Zhao，来自中国的高中生开发者。  

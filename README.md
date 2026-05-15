@@ -5,7 +5,7 @@
 
 **🎓 A High School Developer from China Mainland**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C8FF&background=00000000&center=true&vCenter=true&width=600&height=45&lines=🌌+The+God+of+Metaverse;🤖+VEX+Robotics+Innovator;💻+Passionate+Coder;🌐+Polyglot;🦾+Robotics+Enthusiast;🚀+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;color=00C8FF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=🌌+The+God+of+Metaverse;🤖+VEX+Robotics+Innovator;💻+Passionate+Coder;🌐+Polyglot;🦾+Robotics+Enthusiast;🚀+Tech+Explorer)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,82 +52,82 @@
 ## 🛠️ Technical Arsenal
 
 ### 🚀 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-FF0054?style=for-the-badge&logo=motion&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FF0054?style=for-the-badge&amp;logo=motion&amp;logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&amp;logo=zustand&amp;logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&amp;logo=shadcnui&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
 
 ### 🐍 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DC3F24?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DC3F24?style=for-the-badge&amp;logo=sqlalchemy&amp;logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white)
 
-### 🔧 Systems & Infrastructure
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🔧 Systems &amp; Infrastructure
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&amp;logo=cmake&amp;logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
 
-### 🤖 AI & Machine Learning
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-5469D4?style=for-the-badge&logo=anthropic&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=facebook&logoColor=white)
-![Sentence%20Transformers](https://img.shields.io/badge/Sentence%20Transformers-008080?style=for-the-badge&logo=sbert&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=litellm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 AI &amp; Machine Learning
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-5469D4?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&amp;logo=facebook&amp;logoColor=white)
+![Sentence%20Transformers](https://img.shields.io/badge/Sentence%20Transformers-008080?style=for-the-badge&amp;logo=sbert&amp;logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&amp;logo=litellm&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### ☁️ Cloud &amp; DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&amp;logo=vim&amp;logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white)
 
-### 🗄️ Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![ZLIB](https://img.shields.io/badge/ZLIB-000000?style=for-the-badge&logo=zlib&logoColor=white)
+### 🗄️ Data &amp; Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=json&amp;logoColor=white)
+![ZLIB](https://img.shields.io/badge/ZLIB-000000?style=for-the-badge&amp;logo=zlib&amp;logoColor=white)
 
-### 🎨 Creative & Design
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### 🎨 Creative &amp; Design
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&amp;logo=blender&amp;logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&amp;logo=opengl&amp;logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white)
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&amp;logo=swift&amp;logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&amp;logo=perl&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
 
 ---
 
@@ -226,7 +226,7 @@ A chaos-driven, VR-native protocol for exploring your inner cosmos.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🌐 Biosurf
 A dedicated browser for APIs, crawlers, and AI agents
@@ -235,7 +235,7 @@ A dedicated browser for APIs, crawlers, and AI agents
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🌍 metaclass-prototype
 A semantic standard for defining world objects in the Metaverse
@@ -243,6 +243,73 @@ A semantic standard for defining world objects in the Metaverse
 ![Forks](https://img.shields.io/github/forks/Oasis-Company/metaclass-prototype?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
 ![License](https://img.shields.io/github/license/Oasis-Company/metaclass-prototype?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 Oermos
+Unified communication layer for Oasis ecosystem – connect any place, in anyway
+![Stars](https://img.shields.io/github/stars/Oasis-Company/Oermos?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/Oermos?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🧬 OasisBio
+A Trans-Era Identity Agreement
+![Stars](https://img.shields.io/github/stars/Oasis-Company/OasisBio?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Oasis-Company/OasisBio?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/OasisBio?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🤖 AgentSociety
+AgentSociety 2 is a modern, LLM-native agent simulation platform for social science research
+![Stars](https://img.shields.io/github/stars/Oasis-Company/AgentSociety?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Oasis-Company/AgentSociety?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/AgentSociety?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔬 AME-rector
+Understand the world, reconstruct the world, AMAR ENGINE
+![Stars](https://img.shields.io/github/stars/Oasis-Company/AME-rector?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/AME-rector?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🤖 QueueDesk
+AI-powered internal service desk for teams
+![Stars](https://img.shields.io/github/stars/Oasis-Company/QueueDesk?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/QueueDesk?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗺️ colmap
+COLMAP - Structure-from-Motion and Multi-View Stereo
+![Forks](https://img.shields.io/github/forks/Oasis-Company/colmap?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 OpenMythos
+Theoretical reconstruction of Claude Mythos architecture from first principles
+![Forks](https://img.shields.io/github/forks/Oasis-Company/OpenMythos?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![License](https://img.shields.io/github/license/Oasis-Company/OpenMythos?style=flat-square)
 
 </td>
 </tr>
@@ -260,17 +327,17 @@ A semantic standard for defining world objects in the Metaverse
 - [WoconAPP](https://github.com/zbbsdsb/WoconAPP) - made by ceaserzhao
 - [OasisAndroidApp](https://github.com/OasisAndroidApp) - Open-source Android applications
 
-### 🧪 Research & Tools
+### 🧪 Research &amp; Tools
 - [pwl-reading-companion](https://github.com/zbbsdsb/pwl-reading-companion) - AI reading companion for Papers We Love
 - [Thothapp](https://github.com/zbbsdsb/Thothapp) - Thoth application
 - [rusocrates-homepage](https://github.com/zbbsdsb/rusocrates-homepage) - Landing page for R U Socrates
 
-### 🎨 Creative & Experimental
+### 🎨 Creative &amp; Experimental
 - [DigitalOddities](https://github.com/zbbsdsb/DigitalOddities) - A digital museum of the weird and quirky
 - [Oasis-Power](https://github.com/zbbsdsb/Oasis-Power) - Make your AI unstoppable
 - [The-Most-Starred-Repo](https://github.com/zbbsdsb/The-Most-Starred-Repo) - 🌍🔥 This repo will change your life!
 
-### 🌐 Web & Docs
+### 🌐 Web &amp; Docs
 - [oasisbio_docs](https://github.com/zbbsdsb/oasisbio_docs) - Docs for OasisBio
 - [amardocs](https://github.com/zbbsdsb/amardocs) - Docs for AMAR ENGINE
 - [Ceaserzhao](https://github.com/zbbsdsb/Ceaserzhao) - ceaserzhao's bio website
@@ -322,11 +389,11 @@ A semantic standard for defining world objects in the Metaverse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zbbsdsb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zbbsdsb&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zbbsdsb&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zbbsdsb&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="49%" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbbsdsb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=zbbsdsb&theme=tokyonight&no-frame=true&column=-1" alt="Trophies" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbbsdsb&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=zbbsdsb&amp;theme=tokyonight&amp;no-frame=true&amp;column=-1" alt="Trophies" width="100%" />
 
 </div>
 
@@ -336,9 +403,9 @@ A semantic standard for defining world objects in the Metaverse
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhaoceaser@gmail.com)
-[![QQ Mail](https://img.shields.io/badge/QQ_Email-000000?style=for-the-badge&logo=tencent-qq&logoColor=white)](mailto:2791351776@qq.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ceasernotfound)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:zhaoceaser@gmail.com)
+[![QQ Mail](https://img.shields.io/badge/QQ_Email-000000?style=for-the-badge&amp;logo=tencent-qq&amp;logoColor=white)](mailto:2791351776@qq.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/ceasernotfound)
 
 **✨ Preferred: zhaoceaser@gmail.com**
 

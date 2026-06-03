@@ -436,14 +436,14 @@ Theoretical reconstruction of Claude Mythos architecture from first principles
 
 **¡Disfruten el ahora!** 🌟
 
-📅 Last Updated: 2025.12.16
+📅 Last Updated: 2026.6.3
 
 ---
 
 ## 🇨🇳 中文简介
 
-👋 你好！我是 Ceaser Zhao，来自中国的高中生开发者。  
-🤝 我很乐意分享和学习！我的 Discord: `ceasernotfound`
+👋 你好！我是 Ceaser Zhao，来自中国的造梦家，也是一位高中生开发者。  
+🤝 我很乐意分享和学习！我的 Discord: `ceasernotfound`，qq：2791351776
 
 ---
 
